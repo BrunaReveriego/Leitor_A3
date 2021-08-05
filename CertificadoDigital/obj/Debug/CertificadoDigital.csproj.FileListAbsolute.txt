@@ -1,0 +1,10 @@
+C:\Teste_Leitor_A3\CertificadoDigital\CertificadoDigital\obj\Debug\CertificadoDigital.csprojAssemblyReference.cache
+C:\Teste_Leitor_A3\CertificadoDigital\CertificadoDigital\obj\Debug\CertificadoDigital.csproj.CoreCompileInputs.cache
+C:\Teste_Leitor_A3\CertificadoDigital\CertificadoDigital\bin\Debug\CertificadoDigital.exe.config
+C:\Teste_Leitor_A3\CertificadoDigital\CertificadoDigital\bin\Debug\CertificadoDigital.exe
+C:\Teste_Leitor_A3\CertificadoDigital\CertificadoDigital\bin\Debug\CertificadoDigital.pdb
+C:\Teste_Leitor_A3\CertificadoDigital\CertificadoDigital\obj\Debug\CertificadoDigital.exe
+C:\Teste_Leitor_A3\CertificadoDigital\CertificadoDigital\obj\Debug\CertificadoDigital.pdb
+C:\Teste_Leitor_A3\CertificadoDigital\CertificadoDigital\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Teste_Leitor_A3\CertificadoDigital\CertificadoDigital\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Teste_Leitor_A3\CertificadoDigital\CertificadoDigital\obj\Debug\CertificadoDigital.csproj.CopyComplete
