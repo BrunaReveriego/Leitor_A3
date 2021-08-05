@@ -65,13 +65,13 @@ namespace CertificadoDigital
                         Console.WriteLine(signedCms);
 
 
-                        Console.ReadKey();
 
-                
+
+
                     }
-                    catch (CryptographicException)
+                    catch (CryptographicException e)
                     {
-                        Console.WriteLine("Information could not be written out for this certificate.");
+                        Console.WriteLine(e);
                     }
                 }
             }
@@ -82,7 +82,7 @@ namespace CertificadoDigital
                 Console.WriteLine("Nenhum certificado localizado");
             }
 
-
+            Console.ReadKey();
 
         }
 
